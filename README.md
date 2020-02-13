@@ -1,4 +1,4 @@
-#Git-Practice Assignment
+# Git-Practice Assignment
 
-##Link
+## Link
 [Software Engineers' Pay is Rising Faster Outside Silicon Valley] (https://www.wsj.com/articles/software-engineers-pay-is-rising-faster-outside-silicon-valley-11581550773)
